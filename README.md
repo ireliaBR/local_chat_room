@@ -2,10 +2,11 @@
 local process build chat room.
 ## Build
 	$ cd ./chat
-	$ make server
-	$ make client
-	$ cd ./build
+	$ make
+	$ cd ./product
 	$ ./server
+
+    //open new terminal into ./chat/product
 	$ ./client
 ## preview
 
